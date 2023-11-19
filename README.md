@@ -1,4 +1,4 @@
-# Home work 01
+# Homework 01
 
 ### node index.js --action list
 ![Image](./img/1.png)
